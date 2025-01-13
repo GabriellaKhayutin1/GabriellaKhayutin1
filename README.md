@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriella Khayutin</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabriellakhayutin1" alt="gabriellakhayutin1" /></a> </p>
-
 - 📫 How to reach me **gabriellakhayutin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
